@@ -31,3 +31,7 @@ h1 {
 mark {
   background-color: gold;
 }
+
+img {
+  padding-right: 5px;
+}
